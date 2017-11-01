@@ -7,3 +7,4 @@ PP03: Authority and Replication
 PP04: Widgets for FVector Properties
 PP05: Sending the Platform Back
 PP06: Set Up a Simple Puzzle
+PP07: Set Up A Platform Trigger
