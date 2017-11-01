@@ -18,5 +18,10 @@ public:
 	UPuzzlePlatformGameInstance(const FObjectInitializer &ObjectInitializer);
 	
 	virtual void Init();
+
+	UFUNCTION(Exec)
+	void Host();
 	
+	UFUNCTION(Exec)
+	void Join(FString& Address);
 };
